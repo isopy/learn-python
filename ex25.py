@@ -39,7 +39,7 @@ def print_first_and_last_sorted(sentence):
 # [GCC 4.8.2 20131017 (Red Hat 4.8.2-1)] on linux2
 # Type "help", "copyright", "credits" or "license" for more information.
 
-# >>> import ex25                                                       ### you import your ex25.py Python file, just like other imports you have done. Notice you do not need to put the .py at the end to import it. When you do this you make a module that has all your functions in it to use.
+# >>> import ex25                                            1:!           ### you import your ex25.py Python file, just like other imports you have done. Notice you do not need to put the .py at the end to import it. When you do this you make a module that has all your functions in it to use.
 # >>> sentence = "All good things come to those who wait."              ### you made a sentence to work with.
 # >>> words = ex25.break_words(sentence)                                ### you use the ex25 module and call your first function ex25.break_words. The . (dot, period) symbol is how you tell Python, "Hey, inside ex25 there's a function called break_words and I want to run it."
 # >>> words                                                             ### we just type words, and Python will print out what's in that variable (line 9). It looks weird but this is a list which you will learn about later.
