@@ -1,5 +1,3 @@
-from __future__ import division
-
 def men_real(a):
     print "Calculating the actual number of women you've slept with: "
     return a / 2.0
