@@ -1,3 +1,0 @@
-sample text
-from copy1.txt.
-this text should end up in copy2.txt
